@@ -1,2 +1,2 @@
 # APCS-A-Java-
-Corsework for AP Computer Sceince 
+Coursework for AP Computer Science 
